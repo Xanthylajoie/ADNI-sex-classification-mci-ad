@@ -52,6 +52,7 @@ Data were obtained from the **Alzheimer’s Disease Neuroimaging Initiative (ADN
 - Train/test split: 80% / 20% (stratified)
 - Cross-validation: 10-fold (training set)
 - Preprocessing: z-score normalization
+- Bootstrap resampling was used to estimate 95% confidence intervals for model performance metrics
 
 ### Evaluation metrics
 - Accuracy
